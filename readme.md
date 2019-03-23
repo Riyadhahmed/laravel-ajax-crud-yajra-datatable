@@ -13,8 +13,7 @@
     3. Copy a fresh .env file from laravel github    
     4. Update .env file by adding database information    
     5. Run php artisan key:generate in the terminal    
-    6. Run php artisan migrate    
-    7. Run all seeder class from seeds folder
+    6. Run php artisan migrate 
     
 
      
